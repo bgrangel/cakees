@@ -1,0 +1,1 @@
+<h2>Bienvenido <?= $current_user['first_name'] ?></h2>
